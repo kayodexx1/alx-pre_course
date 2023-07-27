@@ -1,1 +1,1 @@
-My first readme
+Coding ain't easy
